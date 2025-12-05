@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/17 10:23:32.000.613,=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/21 11:46:13.000.712,=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/24 12:45:24.000.084,=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/24 12:48:21.000.286,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\AcademiasBD.dfm=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/11/24 12:48:21.000.286,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\AcademiasBD.pas=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/24 14:56:23.000.898,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Project1.dproj=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/11/26 14:19:42.000.102,=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit2.pas</Transaction>
+    <Transaction>2025/11/26 14:20:00.000.203,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\AgregarForm.pas=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit2.pas</Transaction>
+    <Transaction>2025/11/26 14:20:00.000.203,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\AgregarForm.dfm=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit2.dfm</Transaction>
+    <Transaction>2025/11/27 13:51:27.000.893,=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit2.pas</Transaction>
+    <Transaction>2025/11/27 13:52:27.000.634,=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit2.pas</Transaction>
+    <Transaction>2025/11/27 13:53:38.000.324,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit2.dfm=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\ModificarForm.dfm</Transaction>
+    <Transaction>2025/11/27 13:53:38.000.324,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit2.pas=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\ModificarForm.pas</Transaction>
+    <Transaction>2025/12/02 14:14:10.000.708,=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit1.pas</Transaction>
+    <Transaction>2025/12/02 14:16:53.000.488,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\DataModule.dfm=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit1.dfm</Transaction>
+    <Transaction>2025/12/02 14:16:53.000.488,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\DataModule.pas=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit1.pas</Transaction>
+    <Transaction>2025/12/03 14:13:36.000.391,=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit1.pas</Transaction>
+    <Transaction>2025/12/03 14:13:51.000.615,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Unit1.pas=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\Academia.pas</Transaction>
+    <Transaction>2025/12/04 12:43:23.000.103,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\AgregarFormObjeto.pas=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\AgregarForm.pas</Transaction>
+    <Transaction>2025/12/04 12:43:23.000.103,C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\AgregarFormObjeto.dfm=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\AgregarForm.dfm</Transaction>
+    <Transaction>2025/12/04 13:29:47.000.160,=C:\Users\Aux programador\Documents\Embarcadero\Studio\Projects\Aprendiendo Delphi\005_AcademiasBD\AgregarForm.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,37 @@
+// 1. Conexión y Apertura de Tabla
+  if not con1.Connected then
+    con1.Connect;
+
+  if not TblDatos.Active then
+    TblDatos.Open;
+
+  // 2. Obtener el valor del TComboBox usando el nuevo nombre
+  // El texto seleccionado por el usuario será 'Activo' o 'Inactivo'
+  StatusValor := EstatusBox.Text;
+
+  // 3. Iniciar la inserción
+  TblDatos.Append;
+
+  // Asignar el nombre (usando el campo de entrada EditNombre)
+  TblDatos.FieldByName('nombre_academia').AsString := EditNombre.Text;
+
+  // Asignar el status
+  TblDatos.FieldByName('academia_status').AsString := StatusValor;
+
+  // 4. Guardar el nuevo registro
+  try
+    TblDatos.Post;
+    ShowMessage('Academia "' + EditNombre.Text + '" agregada con éxito');
+
+    // Limpiar campos y resetear el ComboBox
+    EditNombre.Text := '';
+    EstatusBox.ItemIndex := 0; // O la opción que desees como predeterminada
+    Close;
+
+  except
+    on E: Exception do
+    begin
+      ShowMessage('Error al guardar: ' + E.Message);
+      TblDatos.Cancel;
+    end;
+  end;
